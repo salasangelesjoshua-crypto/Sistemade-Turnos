@@ -1,0 +1,2 @@
+2;juan;1
+1;joshua Salas;0
